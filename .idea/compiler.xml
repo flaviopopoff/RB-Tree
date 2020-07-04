@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="rbtree" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="asdl1920mp2" target="1.8" />
+      <module name="rbtree" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
