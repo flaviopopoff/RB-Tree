@@ -1,6 +1,7 @@
 target/
 .settings/
 
+*.iml
 .idea/workspace.xml
 .classpath
 .project
